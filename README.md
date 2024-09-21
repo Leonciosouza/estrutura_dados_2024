@@ -14,7 +14,7 @@
 
 ## Período: 2024.1
 
-## Atividade: Atividade de resolução de lista de exercícios com testes com a ferramenta do 'jest' do Javascript, e contribuição para um Fork do repositório Github do profº.
+## Atividade: Atividade de resolução de lista de exercícios com testes com a ferramenta do 'jest' do Javascript, e contribuição para um Fork do repositório Github disponibilizado pelo profº João.
 
 ## Contribuições na atividade avaliativa: 
  - Aristides, responsável pelas questões: **5A - 8A - 1B**.
