@@ -23,6 +23,6 @@
  - Klyngher, responsável pelas questões: **2B - 3B - 4B**.
  - Thayná, responsável pelas questões: **5B - 6B - 7B - 8B**.
 
-### Todas as contribuições estão orgagizadas dentro da pasta por nome: 
+### Todas as contribuições estão orgagizadas dentro da pasta por nome: <Exercicios_feitos_trabalho_2_parte>, que contém outros diretórios(pastas) referentes às contribuições resolução das questões escolhidas por cada componente.
 
 
