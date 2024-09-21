@@ -14,6 +14,6 @@
 
 ## Período: 2024.1
 
-## Atividade: Atividade de resolução de lista de exercícios com testes, e contribuição para um Fork do repositório Github do profº.
+## Atividade: Atividade de resolução de lista de exercícios com testes com a ferramenta do 'jest' do Javascript, e contribuição para um Fork do repositório Github do profº.
 
 
